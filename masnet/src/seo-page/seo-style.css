@@ -9,6 +9,7 @@
   padding: 1rem 2rem;
   display: flex;
   flex-direction: row;
+  background: var(--first-color);
 }
 .seo-page-son-flex{
   width: 100%;
@@ -17,7 +18,7 @@
   align-items: center;
   justify-content: center;
 }
-.image{
+.seo-page-son-flex .image{
   width: 100%;
   height: 100%;
   display: flex;
@@ -62,6 +63,7 @@
   align-items: center;
   justify-content: center;
   transition: all linear 0.3s;
+  cursor: pointer;
 }
 .btn-seo-page:hover{
   border: 1PX solid var(--second-color);
