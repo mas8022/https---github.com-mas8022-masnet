@@ -1,6 +1,7 @@
 :root{
   --first-color: #fff;
   --second-color: #000;
+  --third-color: rgb(123, 0, 255);
 }
 .nav{
     width: 100%;
@@ -38,5 +39,5 @@
     cursor: pointer;
 }
 .main-ul-nav li:hover{
-    color: rgb(123, 0, 255);
+    color: var(--third-color);
 }
