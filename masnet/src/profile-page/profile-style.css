@@ -66,6 +66,9 @@
     transition: all linear 0.3s;
     cursor: pointer;
   }
+  .flex-profile-page-describe a{
+    text-decoration: none;
+  }
   .btn-profile-page:hover{
     border: 1PX solid var(--second-color);
     background: var(--first-color);

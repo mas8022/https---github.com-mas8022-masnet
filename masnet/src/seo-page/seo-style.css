@@ -53,6 +53,9 @@
   color: gray;
   margin-bottom: 3rem;
 }
+.flex-seo-page-describe a{
+  text-decoration: none;
+}
 .btn-seo-page{
   width: 20rem;
   height: 6rem;

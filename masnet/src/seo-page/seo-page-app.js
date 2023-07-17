@@ -14,7 +14,7 @@ export default function SeoPage() {
 
             <h3>SEO Friendly</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pulvinar luctus sem, eget porta orci. Maecenas molestie dui id diam feugiat, eu tincidunt mauris aliquam. Duis commodo vitae ligula et interdum. Maecenas faucibus mattis imperdiet. In rhoncus ac ligula id ultricies.</p>
-            <div className="btn-seo-page">READ MORE</div>
+            <a href="#"><div className="btn-seo-page">READ MORE</div></a>
             
           </div>
 
