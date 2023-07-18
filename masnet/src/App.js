@@ -5,6 +5,7 @@ import SeoPage from './seo-page/seo-page-app';
 import ProfilePage from './profile-page/profile-app';
 import ParallaxPage from './parallax-page/parallax-page-app'
 import LimitlessPage from './limitless-page/limitless-page-app';
+import ThemPage from './them-page/them-page';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <ProfilePage></ProfilePage>
       <ParallaxPage></ParallaxPage>
       <LimitlessPage></LimitlessPage>
+      <ThemPage></ThemPage>
     </div>
   );
 }
