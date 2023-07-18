@@ -3,6 +3,8 @@ import Navbar from "./navbar/navbar-app"
 import WelcomePage from "./welcom-page/welcome-page-app"
 import SeoPage from './seo-page/seo-page-app';
 import ProfilePage from './profile-page/profile-app';
+import ParallaxPage from './parallax-page/parallax-page-app'
+
 
 function App() {
   return (
@@ -11,6 +13,7 @@ function App() {
       <WelcomePage></WelcomePage>
       <SeoPage></SeoPage>
       <ProfilePage></ProfilePage>
+      <ParallaxPage></ParallaxPage>
     </div>
   );
 }
