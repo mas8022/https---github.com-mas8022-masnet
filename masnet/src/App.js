@@ -4,7 +4,7 @@ import WelcomePage from "./welcom-page/welcome-page-app"
 import SeoPage from './seo-page/seo-page-app';
 import ProfilePage from './profile-page/profile-app';
 import ParallaxPage from './parallax-page/parallax-page-app'
-
+import LimitlessPage from './limitless-page/limitless-page-app';
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
       <SeoPage></SeoPage>
       <ProfilePage></ProfilePage>
       <ParallaxPage></ParallaxPage>
+      <LimitlessPage></LimitlessPage>
     </div>
   );
 }
